@@ -1,70 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WhatsApp Image 2024-01-23 at 16 15 25_7485d8c5](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/601eb790-2190-48a0-b0d5-a17795a07488)
+![WhatsApp Image 2024-01-23 at 16 15 09_3e4a2c57](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/ce2d7e8e-0b6f-4c7d-944f-43b821944387)
+![WhatsApp Image 2024-01-23 at 16 14 43_f934e48b](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/2f74a758-82d5-4666-9c9e-fe2827c0d4b8)
+![WhatsApp Image 2024-01-23 at 16 14 18_c133d3e4](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/55d1dce3-a16f-4183-baee-bfd6e5169f12)
+![WhatsApp Image 2024-01-23 at 16 13 27_d8e2530f](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/34577c59-d32e-413a-9914-f7b55bcc9699)
+![WhatsApp Image 2024-01-23 at 16 12 34_744c34dc](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/b7916ef0-80d4-4c02-969c-97a8b80a3cb1)
+![WhatsApp Image 2024-01-23 at 16 11 57_c1602969](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/15162469-09db-467c-b09d-5b3d55c90cbd)
+![WhatsApp Image 2024-01-23 at 16 08 55_dfc278a7](https://github.com/Abdul-Rahman04/Full-Stack/assets/148424590/17d979be-71e3-46f7-9f4c-c8ac2a1f4f8c)
